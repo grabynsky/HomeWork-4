@@ -59,7 +59,7 @@
     text-align: center;
 }
 
-/*----------Section YouTube-------------*/
+/*----------#region Section YouTube-------------*/
 .section-youtube {
     display: flex;
     justify-content: center;
@@ -85,9 +85,9 @@
 .section-text h2 {
     text-transform: uppercase;
 }
-/*--------------end--------------------*/
+/*--------------#endregion--------------------*/
 
-/*----------Three Pictures-------------*/
+/*----------region Three Pictures-------------*/
 .three-pictures {
     display: flex;
     justify-content: space-evenly;
@@ -137,4 +137,4 @@
     background-color: rgba(217, 217, 217, 0.60);
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
 }
-/*--------------end--------------------*/
+/*--------------#endregion--------------------*/
